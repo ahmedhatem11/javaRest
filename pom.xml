@@ -16,7 +16,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <eclipselink.version>2.6.0</eclipselink.version>
-        <version.mysql>8.0.11</version.mysql>
+        <version.mysql>8.0.28</version.mysql>
     </properties>
 
     <dependencyManagement>
